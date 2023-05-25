@@ -4,6 +4,7 @@
 Amanda do Carmo  |  Beatriz Lourenço  |  Gabriel Yamashita  |  Sophia Kerber
  
 Competition held during the Computer Vision classes.
+
 Objective: to achieve the highest possible accuracy using neural networks:
 
 - CNN (Convolutional Neural Network)
